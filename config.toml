@@ -58,22 +58,22 @@ googleAnalytics = ""
 		headline = "What we do"
 
         [[params.services.list]]
-            icon = "fa-diamond"
+            icon = "fa-empire" 
             title = "Data collection & integration"
             description = "Our templates are updated regularly so they don't break."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
+			icon = "fa-connectdevelop"
 			title = "Sensors"
 			description = "You can use this theme as is, or you can make changes!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
+            icon = "fa-area-chart"
             title = "Machine Learning"
             description = "We update dependencies to keep things fresh."
 
         [[params.services.list]]
-            icon = "fa-heart"
+            icon = "fa-tv"
             title = "Web application"
             description = "You have to make your websites with love these days!"
 
