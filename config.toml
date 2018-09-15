@@ -20,7 +20,7 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "iofarmit"
+	name = "ioFarmIT"
 	description = "farm data machine learning iot sensor predict fungi"
 
 	# The path must be relative to the static folder
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "iofarmit"
+		brand = "ioFarmIT"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Smart Farming Solutions"
-		subtitle   = "Supporting farmers with Real-time Data"
+		slogan     = "Real-time Smart Farming Solutions"
+		subtitle   = ""
 		buttonText = "Find out more"
 
 
