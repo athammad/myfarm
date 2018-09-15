@@ -24,7 +24,7 @@ googleAnalytics = ""
 	description = "farm data machine learning iot sensor predict fungi"
 
 	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	favicon = "faviconz.ico"
 
 
 	# Navigation
