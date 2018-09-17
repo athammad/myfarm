@@ -33,7 +33,7 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about     = "About"
-			services  = "Services"
+			services  = "Solutions"
 			portfolio = "Team"
 			contact   = "Contact"
 
@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Real-time Smart Farming Solutions"
-		subtitle   = ""
+		slogan     = "IoFarmit - The Internet of Farms"
+		subtitle   = "Real-time Smart Farming Solutions"
 		buttonText = "Find out more"
 
 
