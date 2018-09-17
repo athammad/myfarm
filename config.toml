@@ -36,13 +36,14 @@ googleAnalytics = ""
 			services  = "Solutions"
 			portfolio = "Team"
 			contact   = "Contact"
+			
 
 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "IoFarmit - The Internet of Farms"
-		subtitle   = "Real-time Smart Farming Solutions"
+		slogan     = "The Internet of Farms"
+		subtitle   = ""
 		buttonText = "Find out more"
 
 
