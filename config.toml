@@ -50,8 +50,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "Smart Farming Solutions"
-		description = "At IoFarmit we are developing a decision support system relying both on an easy user interface backed by machine learning algorithms and on a cost-effective & efficient hardware. Our solution is targeted to farms of any size."
-		buttonText  = "Go to Demo"
+    description = "Agriculture efficiency and sustainability are some of the key challenges of this century in a world of ever-expanding population. The UN projects that the worldwide demand for food will increase by more than 50% by 2050. Currently 80% of the food worldwide is produced by individual or family farms. This provides a unique opportunity for integration of information technology in Smart Farming. That' s why our mission is to build an Internet of Farms to support farmers around the world. Our  system relies on machine learning algorithms to process data gathered from the sensors using a state-of-the-art wireless technology. It provides an easy user interface where farmers can also share and learn best practices."		buttonText  = "Go to Demo"
 
 
 	# Service section
@@ -59,24 +58,26 @@ googleAnalytics = ""
 		headline = "What we do"
 
         [[params.services.list]]
-            icon = "fa-empire" 
-            title = "Data collection & integration"
-            description = "Our templates are updated regularly so they don't break."
+			icon = "fa-connectdevelop"
+			title = "Sensors Selection"
+			description = "We help you to choose the right set of tools to collect the data that you want"
+
 
         [[params.services.list]]
-			icon = "fa-connectdevelop"
-			title = "Sensors"
-			description = "You can use this theme as is, or you can make changes!"
+            icon = "fa-empire" 
+            title = "Data Management"
+            description = "We collect, store and organised your data in an efficent way"
+
 
 		[[params.services.list]]
             icon = "fa-area-chart"
             title = "Machine Learning"
-            description = "We update dependencies to keep things fresh."
+            description = "Get a deeper understand of your filed with the most advanced techniques"
 
         [[params.services.list]]
             icon = "fa-tv"
-            title = "Web application"
-            description = "You have to make your websites with love these days!"
+            title = "Web Application"
+            description = "Query, visualise and use all your data in a simple interface to make better decisions"
 
 
     # Portfolio modals
