@@ -50,7 +50,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "Smart Farming Solutions"
-    description = "Agriculture efficiency and sustainability are some of the key challenges of this century in a world of ever-expanding population.<br>The UN projects that the worldwide demand for food will increase by more than 50% by 2050. Currently 80% of the food worldwide is produced by individual or family farms. This provides a unique opportunity for integration of information technology in Smart Farming. <br><br>That's why our mission is to build an Internet of Farms to support farmers around the world.<br><br>Our system relies on machine learning algorithms to process data gathered from the sensors using a state-of-the-art wireless technology. It provides an easy user interface where farmers can also share and learn best practices."
+    description = "<b>Agriculture efficiency and sustainability</b> are some of the key challenges of this century in a world of ever-expanding population.<br>The UN projects that the worldwide demand for food will increase by more than 50% by 2050. Currently 80% of the food worldwide is produced by individual or family farms. This provides a unique opportunity for integration of information technology in <b>Smart Farming</b>. <br><br>That's why <b>our mission</b> is to build an <b>Internet of Farms</b> to support farmers around the world.<br><br>Our system relies on machine learning algorithms to process data gathered from the sensors using a <b>state-of-the-art wireless technology</b>. It provides an <b>easy user interface</b> where farmers can also share and learn best practices."
     buttonText  = "Go to Demo"
 
 
