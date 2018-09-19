@@ -1,4 +1,4 @@
-baseurl = "http://www.iofarmit.com/"
+baseurl = "https://www.iofarmit.com/"
 languageCode = "en-us"
 title = "IoFarmIT"
 theme = "hugo-creative-theme"
