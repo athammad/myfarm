@@ -1,6 +1,6 @@
-baseurl = ""
+baseurl = "http://www.app.iofarmit.com/"
 languageCode = "en-us"
-title = "iofarmit"
+title = "IoFarmIT"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -94,7 +94,7 @@ googleAnalytics = ""
 
 		[params.aside.button]
 			text = "Go to Demo"
-			link = "http://iofarmit.com/app/myfarm/"
+			link = "http://www.app.iofarmit.com/app/myfarm/"
 
 	# Contact section
 	[params.contact]
