@@ -85,7 +85,7 @@ googleAnalytics = ""
 	[params.portfolio.modal]
         client = "Client"
         date = "Date"
-        category = "Category"
+        category = ""
         buttonText = "Close"
 
     # Aside section
