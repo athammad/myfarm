@@ -82,10 +82,10 @@ googleAnalytics = ""
 
 
     # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        buttonText = "Close"
+#	[params.portfolio.modal]
+#        client = "Client"
+ #       date = "Date"
+#        buttonText = "Close"
 
     # Aside section
 	#[params.aside]
