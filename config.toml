@@ -21,7 +21,7 @@ googleAnalytics = ""
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "ioFarmIT"
-	description = "farm data machine learning iot sensor predict fungi"
+	description = "Our system relies on machine learning algorithms to process data gathered from the sensors using a <b>state-of-the-art wireless technology</b>. It provides an easy user interface where farmers can also share and learn best practices. farm data machine learning iot sensor predict fungi"
 
 	# The path must be relative to the static folder
 	favicon = "faviconz.ico"

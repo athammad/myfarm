@@ -394,9 +394,9 @@
  }
  
  .btn-primary { /*BOTTONE DI FIND OUT*/
-     border-color: #16B42B;
-     color: #fff;
-     background-color: #16B42B;
+    border-color: rgb(180, 22, 22);
+     color: #222;
+     background-color: rgb(180, 22, 61);
      -webkit-transition: all .35s;
      -moz-transition: all .35s;
      transition: all .35s;
