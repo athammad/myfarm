@@ -394,9 +394,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary { /*BOTTONE DI FIND OUT*/
-    border-color: rgb(180, 22, 22);
+    border-color:  #222;
     color: #222;
-    background-color: rgb(180, 22, 61);
+    background-color:  #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
